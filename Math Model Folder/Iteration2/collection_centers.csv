@@ -1,0 +1,28 @@
+Country,Name,Supply,Latitude,Longitude
+Germany,Berlin,1238,52.52,13.405
+Germany,Hamburg,1238,53.5511,9.9937
+Germany,Munich,1238,48.1351,11.582
+Germany,Cologne,1238,50.9375,6.9603
+Netherlands,Amsterdam,271,52.3676,4.9041
+Netherlands,Rotterdam,271,51.9244,4.4777
+Netherlands,The Hague,271,52.0705,4.3007
+Netherlands,Utrecht,271,52.0907,5.1214
+France,Paris,879,48.8566,2.3522
+France,Lyon,879,45.764,4.8357
+France,Marseille,879,43.2965,5.3698
+Belgium,Antwerp,320,51.2194,4.4025
+Belgium,Brussels,320,50.8503,4.3517
+Austria,Vienna,488,48.2082,16.3738
+Sweden,Stockholm,536,59.3293,18.0686
+Spain,Barcelona,769,41.3851,2.1734
+Spain,Madrid,769,40.4168,-3.7038
+Czech Republic,Prague,579,50.0755,14.4378
+Denmark,Copenhagen,228,55.6761,12.5683
+Denmark,Aalborg,228,57.0488,9.9217
+Poland,Warsaw,442,52.2297,21.0122
+Poland,Lublin,442,51.2465,22.5684
+Finland,Helsinki,289,60.1699,24.9384
+Portugal,Lisbon,126,38.7223,-9.1393
+Portugal,Porto,126,41.1579,-8.6291
+Portugal,Braga,126,41.5454,-8.4265
+Portugal,Setubal,126,38.5244,-8.8882

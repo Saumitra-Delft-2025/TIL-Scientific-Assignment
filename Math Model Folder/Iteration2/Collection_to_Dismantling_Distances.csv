@@ -1,0 +1,325 @@
+Collection,Dismantling,Distance_km
+Berlin,Duisburg,472.0
+Berlin,Rotterdam,613.3
+Berlin,Antwerp,636.3
+Berlin,Hamburg,256.0
+Berlin,Lyon,976.1
+Berlin,Frankfurt,424.4
+Berlin,Gdańsk,403.5
+Berlin,Le Havre,990.4
+Berlin,Marseille,1186.8
+Berlin,Vienna,524.0
+Berlin,Milan,842.8
+Berlin,Katowice,464.4
+Hamburg,Duisburg,321.9
+Hamburg,Rotterdam,414.1
+Hamburg,Antwerp,460.5
+Hamburg,Hamburg,0.0
+Hamburg,Lyon,942.2
+Hamburg,Frankfurt,393.3
+Hamburg,Gdańsk,574.7
+Hamburg,Le Havre,820.1
+Hamburg,Marseille,1189.9
+Hamburg,Vienna,744.3
+Hamburg,Milan,901.3
+Hamburg,Katowice,720.3
+Munich,Duisburg,504.9
+Munich,Rotterdam,660.4
+Munich,Antwerp,621.0
+Munich,Hamburg,612.8
+Munich,Lyon,577.0
+Munich,Frankfurt,305.1
+Munich,Gdańsk,848.6
+Munich,Le Havre,855.3
+Munich,Marseille,722.8
+Munich,Vienna,356.4
+Munich,Milan,348.5
+Munich,Katowice,591.5
+Cologne,Duisburg,57.0
+Cologne,Rotterdam,204.6
+Cologne,Antwerp,182.0
+Cologne,Hamburg,357.0
+Cologne,Lyon,596.4
+Cologne,Frankfurt,152.8
+Cologne,Gdańsk,876.1
+Cologne,Le Havre,514.5
+Cologne,Marseille,857.9
+Cologne,Vienna,744.8
+Cologne,Milan,630.7
+Cologne,Katowice,856.4
+Amsterdam,Duisburg,164.7
+Amsterdam,Rotterdam,57.3
+Amsterdam,Antwerp,132.4
+Amsterdam,Hamburg,366.4
+Amsterdam,Lyon,734.4
+Amsterdam,Frankfurt,364.1
+Amsterdam,Gdańsk,939.6
+Amsterdam,Le Havre,464.4
+Amsterdam,Marseille,1009.2
+Amsterdam,Vienna,937.7
+Amsterdam,Milan,829.1
+Amsterdam,Katowice,1010.0
+Rotterdam,Duisburg,167.2
+Rotterdam,Rotterdam,0.0
+Rotterdam,Antwerp,78.6
+Rotterdam,Hamburg,414.1
+Rotterdam,Lyon,685.6
+Rotterdam,Frankfurt,357.3
+Rotterdam,Gdańsk,984.0
+Rotterdam,Le Havre,410.2
+Rotterdam,Marseille,961.6
+Rotterdam,Vienna,945.2
+Rotterdam,Milan,797.4
+Rotterdam,Katowice,1033.8
+The Hague,Duisburg,184.1
+The Hague,Rotterdam,20.3
+The Hague,Antwerp,95.0
+The Hague,Hamburg,417.6
+The Hague,Lyon,702.4
+The Hague,Frankfurt,376.4
+The Hague,Gdańsk,989.6
+The Hague,Le Havre,411.7
+The Hague,Marseille,978.8
+The Hague,Vienna,962.5
+The Hague,Milan,817.4
+The Hague,Katowice,1047.3
+Utrecht,Duisburg,134.8
+Utrecht,Rotterdam,47.9
+Utrecht,Antwerp,109.0
+Utrecht,Hamburg,366.4
+Utrecht,Lyon,703.9
+Utrecht,Frankfurt,332.7
+Utrecht,Gdańsk,936.1
+Utrecht,Le Havre,456.3
+Utrecht,Marseille,978.0
+Utrecht,Vienna,911.5
+Utrecht,Milan,794.9
+Utrecht,Katowice,991.5
+Paris,Duisburg,426.0
+Paris,Rotterdam,373.2
+Paris,Antwerp,301.0
+Paris,Hamburg,746.2
+Paris,Lyon,391.7
+Paris,Frankfurt,479.2
+Paris,Gdańsk,1279.6
+Paris,Le Havre,178.3
+Paris,Marseille,660.5
+Paris,Vienna,1036.6
+Paris,Milan,640.7
+Paris,Katowice,1213.7
+Lyon,Duisburg,646.3
+Lyon,Rotterdam,685.6
+Lyon,Antwerp,607.5
+Lyon,Hamburg,942.2
+Lyon,Lyon,0.0
+Lyon,Frankfurt,562.1
+Lyon,Gdańsk,1370.4
+Lyon,Le Havre,545.9
+Lyon,Marseille,277.5
+Lyon,Vienna,917.8
+Lyon,Milan,341.2
+Lyon,Katowice,1168.3
+Marseille,Duisburg,910.8
+Marseille,Rotterdam,961.6
+Marseille,Antwerp,883.8
+Marseille,Hamburg,1189.9
+Marseille,Lyon,277.5
+Marseille,Frankfurt,798.5
+Marseille,Gdańsk,1563.6
+Marseille,Le Havre,798.5
+Marseille,Marseille,0.0
+Marseille,Vienna,1013.9
+Marseille,Milan,388.1
+Marseille,Katowice,1295.6
+Antwerp,Duisburg,166.2
+Antwerp,Rotterdam,78.6
+Antwerp,Antwerp,0.0
+Antwerp,Hamburg,460.5
+Antwerp,Lyon,607.5
+Antwerp,Frankfurt,326.7
+Antwerp,Gdańsk,1020.1
+Antwerp,Le Havre,360.8
+Antwerp,Marseille,883.8
+Antwerp,Vienna,924.7
+Antwerp,Milan,731.4
+Antwerp,Katowice,1035.8
+Brussels,Duisburg,180.8
+Brussels,Rotterdam,119.8
+Brussels,Antwerp,41.2
+Brussels,Hamburg,488.7
+Brussels,Lyon,566.7
+Brussels,Frankfurt,318.1
+Brussels,Gdańsk,1041.7
+Brussels,Le Havre,338.5
+Brussels,Marseille,843.3
+Brussels,Vienna,917.3
+Brussels,Milan,698.4
+Brussels,Katowice,1040.0
+Vienna,Duisburg,778.4
+Vienna,Rotterdam,945.2
+Vienna,Antwerp,924.7
+Vienna,Hamburg,744.3
+Vienna,Lyon,917.8
+Vienna,Frankfurt,599.2
+Vienna,Gdańsk,701.6
+Vienna,Le Havre,1199.9
+Vienna,Marseille,1013.9
+Vienna,Vienna,0.0
+Vienna,Milan,626.8
+Vienna,Katowice,299.2
+Stockholm,Duisburg,1131.0
+Stockholm,Rotterdam,1184.4
+Stockholm,Antwerp,1248.2
+Stockholm,Hamburg,812.5
+Stockholm,Lyon,1749.0
+Stockholm,Frankfurt,1188.6
+Stockholm,Gdańsk,555.4
+Stockholm,Le Havre,1590.0
+Stockholm,Marseille,1983.5
+Stockholm,Vienna,1242.7
+Stockholm,Milan,1653.5
+Stockholm,Katowice,1010.9
+Barcelona,Duisburg,1170.9
+Barcelona,Rotterdam,1184.6
+Barcelona,Antwerp,1106.4
+Barcelona,Hamburg,1473.4
+Barcelona,Lyon,531.8
+Barcelona,Frankfurt,1093.1
+Barcelona,Gdańsk,1887.2
+Barcelona,Le Havre,915.5
+Barcelona,Marseille,338.3
+Barcelona,Vienna,1352.1
+Barcelona,Milan,726.3
+Barcelona,Katowice,1633.4
+Madrid,Duisburg,1466.0
+Madrid,Rotterdam,1424.5
+Madrid,Antwerp,1354.0
+Madrid,Hamburg,1787.2
+Madrid,Lyon,913.6
+Madrid,Frankfurt,1447.3
+Madrid,Gdańsk,2272.6
+Madrid,Le Havre,1052.3
+Madrid,Marseille,817.9
+Madrid,Vienna,1813.1
+Madrid,Milan,1190.5
+Madrid,Katowice,2078.0
+Prague,Duisburg,562.0
+Prague,Rotterdam,728.1
+Prague,Antwerp,720.5
+Prague,Hamburg,493.2
+Prague,Lyon,862.0
+Prague,Frankfurt,411.8
+Prague,Gdańsk,555.8
+Prague,Le Havre,1032.4
+Prague,Marseille,1022.8
+Prague,Vienna,251.1
+Prague,Milan,645.9
+Prague,Katowice,328.3
+Copenhagen,Duisburg,608.6
+Copenhagen,Rotterdam,676.4
+Copenhagen,Antwerp,734.2
+Copenhagen,Hamburg,289.1
+Copenhagen,Lyon,1228.7
+Copenhagen,Frankfurt,672.0
+Copenhagen,Gdańsk,415.7
+Copenhagen,Le Havre,1086.5
+Copenhagen,Marseille,1470.4
+Copenhagen,Vienna,870.8
+Copenhagen,Milan,1160.5
+Copenhagen,Katowice,741.4
+Aalborg,Duisburg,657.8
+Aalborg,Rotterdam,670.2
+Aalborg,Antwerp,741.8
+Aalborg,Hamburg,389.4
+Aalborg,Lyon,1303.5
+Aalborg,Frankfurt,776.5
+Aalborg,Gdańsk,624.7
+Aalborg,Le Havre,1063.4
+Aalborg,Marseille,1563.0
+Aalborg,Vienna,1075.3
+Aalborg,Milan,1289.8
+Aalborg,Katowice,963.8
+Warsaw,Duisburg,984.7
+Warsaw,Rotterdam,1131.7
+Warsaw,Antwerp,1150.6
+Warsaw,Hamburg,755.2
+Warsaw,Lyon,1380.4
+Warsaw,Frankfurt,892.8
+Warsaw,Gdańsk,284.0
+Warsaw,Le Havre,1497.3
+Warsaw,Marseille,1531.0
+Warsaw,Vienna,556.2
+Warsaw,Milan,1145.9
+Warsaw,Katowice,258.9
+Lublin,Duisburg,1099.5
+Lublin,Rotterdam,1252.9
+Lublin,Antwerp,1265.6
+Lublin,Hamburg,892.1
+Lublin,Lyon,1440.4
+Lublin,Frankfurt,988.1
+Lublin,Gdańsk,435.1
+Lublin,Le Havre,1603.4
+Lublin,Marseille,1567.1
+Lublin,Vienna,559.8
+Lublin,Milan,1179.0
+Lublin,Katowice,272.9
+Helsinki,Duisburg,1489.6
+Helsinki,Rotterdam,1560.6
+Helsinki,Antwerp,1619.6
+Helsinki,Hamburg,1167.7
+Helsinki,Lyon,2078.9
+Helsinki,Frankfurt,1517.9
+Helsinki,Gdańsk,750.2
+Helsinki,Le Havre,1969.7
+Helsinki,Marseille,2294.3
+Helsinki,Vienna,1441.2
+Helsinki,Milan,1939.7
+Helsinki,Katowice,1164.0
+Lisbon,Duisburg,1879.5
+Lisbon,Rotterdam,1808.1
+Lisbon,Antwerp,1746.2
+Lisbon,Hamburg,2200.0
+Lisbon,Lyon,1390.5
+Lisbon,Frankfurt,1892.7
+Lisbon,Gdańsk,2718.8
+Lisbon,Le Havre,1405.0
+Lisbon,Marseille,1319.8
+Lisbon,Vienna,2303.0
+Lisbon,Milan,1685.9
+Lisbon,Katowice,2558.6
+Porto,Duisburg,1640.3
+Porto,Rotterdam,1558.2
+Porto,Antwerp,1499.8
+Porto,Hamburg,1957.9
+Porto,Lyon,1201.8
+Porto,Frankfurt,1670.2
+Porto,Gdańsk,2491.0
+Porto,Le Havre,1150.5
+Porto,Marseille,1178.3
+Porto,Vienna,2119.6
+Porto,Milan,1518.9
+Porto,Katowice,2360.9
+Braga,Duisburg,1596.7
+Braga,Rotterdam,1513.3
+Braga,Antwerp,1455.4
+Braga,Hamburg,1913.9
+Braga,Lyon,1166.2
+Braga,Frankfurt,1628.8
+Braga,Gdańsk,2448.5
+Braga,Le Havre,1105.3
+Braga,Marseille,1150.6
+Braga,Vienna,2083.5
+Braga,Milan,1486.2
+Braga,Katowice,2322.6
+Setubal,Duisburg,1884.6
+Setubal,Rotterdam,1815.7
+Setubal,Antwerp,1753.0
+Setubal,Hamburg,2205.5
+Setubal,Lyon,1387.4
+Setubal,Frankfurt,1894.4
+Setubal,Gdańsk,2721.0
+Setubal,Le Havre,1414.1
+Setubal,Marseille,1310.7
+Setubal,Vienna,2298.1
+Setubal,Milan,1679.3
+Setubal,Katowice,2555.8
